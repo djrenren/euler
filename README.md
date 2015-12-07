@@ -1,4 +1,4 @@
 euler
 =====
 
-Project Euler
+Project Euler: A Repo
